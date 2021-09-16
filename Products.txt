@@ -1,0 +1,6 @@
+bannanas,1.30,20
+bread,2.50,45
+strawberrys,1.95,3
+eggs,4.25,12
+rice,6.00,50
+apples,0.95,13

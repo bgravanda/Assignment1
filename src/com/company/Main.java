@@ -16,7 +16,7 @@ public class Main {
         var allLines = Files.readAllLines(filePath);
         for (var line: allLines){
             var splitLine = line.split(",");
-            //var splitLine2 = line.split(",");
+            var splitLine2 = line.split(",");
             name.add(splitLine[0]);
             number.add(Integer.parseInt(splitLine[2]));
             price.add(Float.parseFloat(splitLine[1]));

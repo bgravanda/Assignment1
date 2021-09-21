@@ -24,6 +24,10 @@ public class Main {
             System.out.println(name);
             System.out.println(number);
             System.out.println(price);
+            var userInput = ;
+            while(userInput != "end"){
+
+            }
         }
     }
 }
